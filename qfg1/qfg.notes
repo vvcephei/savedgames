@@ -16,15 +16,15 @@ restorative potions
  - vigor 25 silver
  - power 75 silver
 scrolls
- flame dart 60 silver
+x flame dart 60 silver
 x fetch 40 silver
- open spell 30 silver
-can find spell if you learn the secret of Erana's Peace
- - her spell protects this town from violence or foul magic
- - final resting place is due north of town; place of safety and healing
+x open spell 30 silver
+xcan find spell if you learn the secret of Erana's Peace
+x - her spell protects this town from violence or foul magic
+x - final resting place is due north of town; place of safety and healing
 
 Guild Hall
-- reward for return of lost ring at healer's
+x reward for return of lost ring at healer's
 - wanted: brigand leader must provide proof, 60 gold coins and title of Hero of the Realm
 - reward of 50 gold for safe return of Elsa von Spielburg - ask at castle gates
 - spell components needed ask at healer's
@@ -58,7 +58,20 @@ centaur:
 - was attacked, brigand leader saved him
 
 erana's peace
-if thy will is magic, so shall I share. Open this stone and claim what is there
+x if thy will is magic, so shall I share. Open this stone and claim what is there
 
 baba yaga:
 if you get a glowing gem, the skull will open the gate
+
+
+dryad
+quest:
+x seed from spore spitting spirea
+- prophesy a hero will bring a young human from the darkness
+- potion to break enchantments from Healer:
+  x flowers from erana's peace
+  x green fur
+  x fairy dust
+  x magic acorn
+  x flying water
+
